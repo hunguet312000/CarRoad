@@ -1,0 +1,8 @@
+Game cua em duoc làm bang SFML ( SFML-2.5.1-windows-gcc-5.1.0-tdm-32-bit ) và duoc build trên CodeBlock.
+GAME duoc nam trong muc bin. Trong muc bin có 2 thu muc là Debug và Release.
+File .cpp cua game có tên là main.cpp và nam  ngoài cùng voi thu muc bin.
+
+Mô ta luat choi:
+Game se có nhieu chuong ngai vat xuat hiên trên màn hình choi ( các chuong ngai vat có toc do khác nhau có the nhanh hoac cham ).
+Khi ô tô an duoc hình tròn màu xanh thì diem se duoc +1 diem còn neu dâm vào hình vuông màu do game se ket thúc.
+Ô tô có the di chuyen khap màn hình bang cách su dung 4 phim mui tên trên bàn phím. 
